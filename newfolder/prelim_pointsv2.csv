@@ -1,0 +1,36 @@
+pot_type,Points,ramp
+220-Myelograms/discograms,3,3
+"214-CT scan, extremities",3,3
+216-Magnetic resonance (NMR/MRI),3,3
+175-Nerve conduction tests/EMG,3,3
+"212-CT scan, spine",3,3
+"011-Arthrocentesis, large joint",3,3
+"010-Arthrocentesis, sm/med joint",3,3
+"066-Decompression, carpal tunnel",3,3
+"208-X-ray, extremities",3,6
+"229-Dx radiology, misc/other",2,2
+"204-X-ray, spine/pelvis",2,4
+338-Blood test: prothrombin time,2,2
+015-Other minor musculoskeletal surgery,2,2
+012-Other major skin surgery,2,4
+215-PET scan,2,2
+"210-CT scan, head & neck",2,4
+"201-X-ray, head & neck",2,2
+019-Other minor respiratory procedures,2,2
+121-Inpatient consults,2,2
+099-Other major surgery procedures,2,2
+016-Bronchoscopy,1,1
+074-Minor nervous system procedures,1,1
+039-Other major cardiovascular procedures,1,1
+120-Outpatient consults,1,2
+"279-Nuclear medicine, diagnostic",1,1
+226-Angiograms,1,1
+"211-CT scan, chest",1,1
+155-EKG,1,1
+132-Other injections/noninjectables,1,1
+044-Minor hemic & lymphatic procedures,1,1
+299-Other radiology procedure,1,1
+131-Injections: therapeutic/IV,1,1
+"213-CT scan, abdomen/pelvis",1,1
+075-Major nervous system procedures,3,6
+014-Other major musculoskeletal surgery,3,3
