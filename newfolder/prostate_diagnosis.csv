@@ -1,9 +1,0 @@
-dx1,description,type,n_people,n_before_cancer,n_ref,pred_power,ref_power,score
-R9720,Elevated prostate specific antigen [PSA],Malignant neoplasms of male genital organs (C60-C63),58187,11355,111919,19.515,10.146,197.99919
-N4289,Other specified disorders of prostate,Malignant neoplasms of male genital organs (C60-C63),58187,537,3158,0.923,17.004,15.694692
-N429,"Disorder of prostate, unspecified",Malignant neoplasms of male genital organs (C60-C63),58187,521,6458,0.895,8.068,7.22086
-N402,Nodular prostate without lower urinary tract symptoms,Malignant neoplasms of male genital organs (C60-C63),58187,335,3227,0.576,10.381,5.979456
-N400,Benign prostatic hyperplasia without lower urinary tract symptoms,Malignant neoplasms of male genital organs (C60-C63),58187,1518,81541,2.609,1.862,4.857958
-N401,Benign prostatic hyperplasia with lower urinary tract symptoms,Malignant neoplasms of male genital organs (C60-C63),58187,1873,129731,3.219,1.444,4.648236
-N5089,Other specified disorders of the male genital organs,Malignant neoplasms of male genital organs (C60-C63),58187,888,36830,1.526,2.411,3.679186
-N509,"Disorder of male genital organs, unspecified",Malignant neoplasms of male genital organs (C60-C63),58187,258,10354,0.443,2.492,1.103956
