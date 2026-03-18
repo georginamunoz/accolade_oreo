@@ -1,3 +1,6 @@
+######## this query is to pull al requests so there is no duplicates
+
+
 select distinct  r.request_id,  r.cst_request_dtm::date as request_load,
                 CASE WHEN LENGTH(m.person_id) = 36
          THEN m.person_id
