@@ -1,0 +1,102 @@
+﻿cpt_code,description,Category
+55866,"Laparoscopy, surgical prostatectomy, retropubic radical, including nerve sparing, includes robotic assistance, when performed",surgery
+55840,"Prostatectomy, retropubic radical, with or without nerve sparing;",surgery
+55867,"Laparoscopy, surgical prostatectomy, simple subtotal (including control of postoperative bleeding, vasectomy, meatotomy, urethral calibration and/or dilation, and internal urethrotomy), includes robotic assistance, when performed",surgery
+52601,"Transurethral electrosurgical resection of prostate, including control of postoperative bleeding, complete (vasectomy, meatotomy, cystourethroscopy, urethral calibration and/or dilation, and internal urethrotomy are included)",surgery
+38571,"Laparoscopy, surgical; with bilateral total pelvic lymphadenectomy",surgery
+54690,"Laparoscopy, surgical; orchiectomy",surgery
+55873,Cryosurgical ablation of the prostate (includes ultrasonic guidance and monitoring),surgery
+55880,"Ablation of malignant prostate tissue, transrectal, with high intensity-focused ultrasound (HIFU), including ultrasound guidance",surgery
+52647,"Laser coagulation of prostate, including control of postoperative bleeding, complete (vasectomy, meatotomy, cystourethroscopy, urethral calibration and/or dilation, and internal urethrotomy are included if performed)",surgery
+52648,"Laser vaporization of prostate, including control of postoperative bleeding, complete (vasectomy, meatotomy, cystourethroscopy, urethral calibration and/or dilation, internal urethrotomy and transurethral resection of prostate are included if performed)",surgery
+55874,"Transperineal placement of biodegradable material, peri-prostatic, single or multiple injection(s), including image guidance, when performed",surgery
+53852,Transurethral destruction of prostate tissue; by radiofrequency thermotherapy,surgery
+53854,Transurethral destruction of prostate tissue; by radiofrequency generated water vapor thermotherapy,surgery
+38570,"Laparoscopy, surgical; with retroperitoneal lymph node sampling (biopsy), single or multiple",surgery
+38572,"Laparoscopy, surgical; with bilateral total pelvic lymphadenectomy and peri-aortic lymph node sampling (biopsy), single or multiple",surgery
+88309,"Level VI - Surgical pathology, gross and microscopic examination Bone resection Breast, mastectomy - with regional lymph nodes Colon, segmental resection for tumor Colon, total resection Esophagus, partial/total resection Extremity, disarticulation Fetus, with dissection Larynx, partial/total resection - with regional lymph nodes Lung - total/lobe/segment resection Pancreas, total/subtotal resection Prostate, radical resection Small intestine, resection for tumor Soft tissue tumor, extensive resection Stomach - subtotal/total resection for tumor Testis, tumor Tongue/tonsil -resection for tumor Urinary bladder, partial/total resection Uterus, with or without tubes and ovaries, neoplastic Vulva, total/subtotal resection",surgery
+51990,"Laparoscopy, surgical; urethral suspension for stress incontinence",surgery
+88381,"Microdissection (ie, sample preparation of microscopically identified target); manual",surgery
+38571,"Laparoscopy, surgical; with bilateral total pelvic lymphadenectomy",surgery
+55810,"Prostatectomy, perineal radical;",surgery
+55812,"Prostatectomy, perineal radical; with lymph node biopsy(s) (limited pelvic lymphadenectomy)",surgery
+55815,"Prostatectomy, perineal radical; with bilateral pelvic lymphadenectomy, including external iliac, hypogastric and obturator nodes",surgery 
+55821,"Prostatectomy (including control of postoperative bleeding, vasectomy, meatotomy, urethral calibration and/or dilation, and internal urethrotomy); suprapubic, subtotal, 1 or 2 stages",surgery
+55831,"Prostatectomy (including control of postoperative bleeding, vasectomy, meatotomy, urethral calibration and/or dilation, and internal urethrotomy); retropubic, subtotal",surgery
+55840,"Prostatectomy, retropubic radical, with or without nerve sparing;",surgery
+55860,"Exposure of prostate, any approach, for insertion of radioactive substance;",surgery
+77385,"Intensity modulated radiation treatment delivery (IMRT), includes guidance and tracking, when performed; simple",radiation
+77386,"Intensity modulated radiation treatment delivery (IMRT), includes guidance and tracking, when performed; complex",radiation
+77301,"Intensity modulated radiotherapy plan, including dose-volume histograms for target and critical structure partial tolerance specifications",radiation
+77338,"Multi-leaf collimator (MLC) device(s) for intensity modulated radiation therapy (IMRT), design and construction per IMRT plan",radiation
+77336,"Continuing medical physics consultation, including assessment of treatment parameters, quality assurance of dose delivery, and review of patient treatment documentation in support of the radiation oncologist, reported per week of therapy",radiation
+77263,Therapeutic radiology treatment planning; complex,radiation
+77300,"Basic radiation dosimetry calculation, central axis depth dose calculation, TDF, NSD, gap calculation, off axis factor, tissue inhomogeneity factors, calculation of non-ionizing radiation surface and depth dose, as required during course of treatment, only when prescribed by the treating physician",radiation
+77427,"Radiation treatment management, 5 treatments",radiation
+77778,"Interstitial radiation source application, complex, includes supervision, handling, loading of radiation source, when performed",radiation
+77334,"Treatment devices, design and construction; complex (irregular blocks, special shields, compensators, wedges, molds or casts)",radiation
+77318,"Brachytherapy isodose plan; complex (calculation[s] made from over 10 sources, or remote afterloading brachytherapy, over 12 channels), includes basic dosimetry calculation(s)",radiation
+77772,"Remote afterloading high dose rate radionuclide interstitial or intracavitary brachytherapy, includes basic dosimetry, when performed; over 12 channels",radiation
+77435,"Stereotactic body radiation therapy, treatment management, per treatment course, to 1 or more lesions, including image guidance, entire course not to exceed 5 fractions",radiation
+77373,"Stereotactic body radiation therapy, treatment delivery, per fraction to 1 or more lesions, including image guidance, entire course not to exceed 5 fractions",radiation
+77470,"Special treatment procedure (eg, total body irradiation, hemibody radiation, per oral or endocavitary irradiation)",radiation
+77370,Special medical radiation physics consultation,radiation
+77387,"Guidance for localization of target volume for delivery of radiation treatment, includes intrafraction tracking, when performed",radiation
+77290,Therapeutic radiology simulation-aided field setting; complex,radiation
+77332,"Treatment devices, design and construction; simple (simple block, simple bolus)",radiation
+77295,"3-dimensional radiotherapy plan, including dose-volume histograms",radiation
+77280,Therapeutic radiology simulation-aided field setting; simple,radiation
+77386,"Intensity modulated radiation treatment delivery (IMRT), includes guidance and tracking, when performed; complex",radiation
+77417,Therapeutic radiology port image(s),radiation
+77412,"Radiation treatment delivery, => 1 MeV; complex",radiation
+77307,"Teletherapy isodose plan; complex (multiple treatment areas, tangential ports, the use of wedges, blocking, rotational beam, or special beam considerations), includes basic dosimetry calculation(s)",radiation
+C1715,Brachytherapy needle,radiation
+C2639,"Brachytherapy source, nonstranded, iodine-125, per source",radiation
+C1717,"Brachytherapy source, nonstranded, high dose rate iridium-192, per source",radiation
+77525,Proton treatment delivery; complex,radiation
+0395T,"High dose rate electronic brachytherapy, interstitial or intracavitary treatment, per fraction, includes basic dosimetry, when performed",radiation
+J9217,"Leuprolide acetate (for depot suspension), 7.5 mg",Hormone Therapy
+96402,"Chemotherapy administration, subcutaneous or intramuscular; hormonal anti-neoplastic",Chemotherapy
+J9155,"Injection, degarelix, 1 mg",Hormone Therapy
+J9043,"Injection, cabazitaxel, 1 mg",Chemotherapy
+J9181,"Injection, etoposide, 10 mg",Chemotherapy
+J9060,"Injection, cisplatin, powder or solution, 10 mg",Chemotherapy
+J9040,"Injection, bleomycin sulfate, 15 units",Chemotherapy
+J9171,"Injection, docetaxel, 1 mg",Chemotherapy
+96413,"Chemotherapy administration, intravenous infusion technique; up to 1 hour, single or initial substance/drug",Chemotherapy
+96417,"Chemotherapy administration, intravenous infusion technique; each additional sequential infusion (different substance/drug), up to 1 hour (List separately in addition to code for primary procedure)",Chemotherapy
+96409,"Chemotherapy administration; intravenous, push technique, single or initial substance/drug",Chemotherapy
+96411,"Chemotherapy administration; intravenous, push technique, each additional substance/drug (List separately in addition to code for primary procedure)",Chemotherapy
+96401,"Chemotherapy administration, subcutaneous or intramuscular; non-hormonal anti-neoplastic",Chemotherapy
+96415,"Chemotherapy administration, intravenous infusion technique; each additional hour (List separately in addition to code for primary procedure)",Chemotherapy
+96523,Irrigation of implanted venous access device for drug delivery systems,Chemotherapy
+J9045,"Injection, carboplatin, 50 mg",Chemotherapy
+J8540,"Dexamethasone, oral, 0.25 mg",Chemotherapy
+865,"Anesthesia for extraperitoneal procedures in lower abdomen, including urinary tract; radical prostatectomy (suprapubic, retropubic)",surgery
+55876,"Placement of interstitial device(s) for radiation therapy guidance (eg, fiducial markers, dosimeter), prostate (via needle, any approach), single or multiple",surgery
+J0640,"Injection, leucovorin calcium, per 50 mg",Chemotherapy
+J9190,"Injection, fluorouracil, 500 mg",Chemotherapy
+J9202,"Goserelin acetate implant, per 3.6 mg",Hormone Therapy
+53850,Transurethral destruction of prostate tissue; by microwave thermotherapy,surgery
+J3315,"Injection, triptorelin pamoate, 3.75 mg",Hormone Therapy
+J1952,"Leuprolide injectable, camcevi, 1 mg",Hormone Therapy
+J9218,"Leuprolide acetate, per 1 mg",Hormone Therapy
+J8999,"Prescription drug, oral, chemotherapeutic, NOS",Hormone Therapy
+J3316,"Injection, triptorelin, extended-release, 3.75 mg",Hormone Therapy
+77014,Computed tomography guidance for placement of radiation therapy fields,Radiation
+G6015,"Intensity modulated treatment delivery, single or multiple fields/arcs, via narrow spatially and temporally modulated beams, binary, dynamic MLC, per treatment session",Radiation
+55899,"Unlisted procedure, male genital system",
+01922,#N/A,
+52649,"Laser enucleation of the prostate with morcellation, including control of postoperative bleeding, complete (vasectomy, meatotomy, cystourethroscopy, urethral calibration and/or dilation, internal urethrotomy and transurethral resection of prostate are included if performed)",
+00914,#N/A,
+55845,"Prostatectomy, retropubic radical, with or without nerve sparing; with bilateral pelvic lymphadenectomy, including external iliac, hypogastric, and obturator nodes",
+76965,Ultrasonic guidance for interstitial radioelement application,
+00904,#N/A,
+77790,"Supervision, handling, loading of radiation source",
+G6001,Ultrasonic guidance for placement of radiation therapy fields,
+0VT00ZZ,#N/A,
+55875,"Transperineal placement of needles or catheters into prostate for interstitial radioelement application, with or without cystoscopy",
+C1728,"Catheter, brachytherapy seed administration",
+C2640,"Brachytherapy source, stranded, palladium-103, per source",
+Q3001,"Radioelements for brachytherapy, any type, each",
+77333,"Treatment devices, design and construction; intermediate (multiple blocks, stents, bite blocks, special bolus)",
